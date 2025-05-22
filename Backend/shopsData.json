@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Super Cleaners",
+      "category": "Cleaning",
+      "location": "Mumbai",
+      "rating": 4.7,
+      "priceRange": "$$"
+    },
+    {
+      "name": "Electricity Experts",
+      "category": "Electrician",
+      "location": "Delhi",
+      "rating": 4.5,
+      "priceRange": "$$$"
+    },
+    {
+      "name": "FixIt Plumbing",
+      "category": "Plumber",
+      "location": "Bangalore",
+      "rating": 4.8,
+      "priceRange": "$$"
+    },
+    {
+      "name": "TopTech Installations",
+      "category": "Electronics Installation",
+      "location": "Chennai",
+      "rating": 4.6,
+      "priceRange": "$$$"
+    },
+    {
+      "name": "Quick Movers",
+      "category": "Moving",
+      "location": "Hyderabad",
+      "rating": 4.3,
+      "priceRange": "$$"
+    },
+    {
+      "name": "abc cleaners",
+      "category": "cleaners",
+      "location": "kanpur",
+      "rating": 4.4,
+      "priceRange": "$$$"
+    },
+    {
+      "name": "CleanMySpace",
+      "category": "Cleaning",
+      "location": "mumbai",
+      "rating": 4.9,
+      "priceRange": "$"
+    },
+    {
+      "name": "Handyman Heroes",
+      "category": "Handyman",
+      "location": "Delhi",
+      "rating": 4.1,
+      "priceRange": "$$"
+    },
+    {
+      "name": "TechPro Services",
+      "category": "IT Support",
+      "location": "Bangalore",
+      "rating": 4.7,
+      "priceRange": "$$$"
+    },
+    {
+      "name": "Home Renovators",
+      "category": "Renovation",
+      "location": "Mumbai",
+      "rating": 4.2,
+      "priceRange": "$$$$"
+    }
+  ]
+  
